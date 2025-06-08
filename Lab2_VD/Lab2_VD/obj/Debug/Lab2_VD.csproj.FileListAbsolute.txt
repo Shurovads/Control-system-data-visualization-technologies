@@ -1,0 +1,10 @@
+C:\Users\LENOVO\source\repos\Lab2_VD\Lab2_VD\bin\Debug\Lab2_VD.exe.config
+C:\Users\LENOVO\source\repos\Lab2_VD\Lab2_VD\bin\Debug\Lab2_VD.exe
+C:\Users\LENOVO\source\repos\Lab2_VD\Lab2_VD\bin\Debug\Lab2_VD.pdb
+C:\Users\LENOVO\source\repos\Lab2_VD\Lab2_VD\obj\Debug\Lab2_VD.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Lab2_VD\Lab2_VD\obj\Debug\Lab2_VD.Form1.resources
+C:\Users\LENOVO\source\repos\Lab2_VD\Lab2_VD\obj\Debug\Lab2_VD.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\Lab2_VD\Lab2_VD\obj\Debug\Lab2_VD.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\Lab2_VD\Lab2_VD\obj\Debug\Lab2_VD.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Lab2_VD\Lab2_VD\obj\Debug\Lab2_VD.exe
+C:\Users\LENOVO\source\repos\Lab2_VD\Lab2_VD\obj\Debug\Lab2_VD.pdb
