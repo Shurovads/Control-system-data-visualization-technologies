@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\proga6\\Lab1_VD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC91E04-A640-4454-A5C2-426EE259F345}|Lab1_VD\\Lab1_VD.csproj|c:\\users\\lenovo\\desktop\\proga6\\lab1_vd\\lab1_vd\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC91E04-A640-4454-A5C2-426EE259F345}|Lab1_VD\\Lab1_VD.csproj|solutionrelative:lab1_vd\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC91E04-A640-4454-A5C2-426EE259F345}|Lab1_VD\\Lab1_VD.csproj|C:\\Users\\LENOVO\\Desktop\\proga6\\Lab1_VD\\lab1_vd\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6CC91E04-A640-4454-A5C2-426EE259F345}|Lab1_VD\\Lab1_VD.csproj|solutionrelative:lab1_vd\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC91E04-A640-4454-A5C2-426EE259F345}|Lab1_VD\\Lab1_VD.csproj|C:\\Users\\LENOVO\\Desktop\\proga6\\Lab1_VD\\lab1_vd\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC91E04-A640-4454-A5C2-426EE259F345}|Lab1_VD\\Lab1_VD.csproj|solutionrelative:lab1_vd\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\proga6\\Lab1_VD\\Lab1_VD\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Lab1_VD\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\proga6\\Lab1_VD\\Lab1_VD\\Form1.Designer.cs",
+              "RelativeToolTip": "Lab1_VD\\Form1.Designer.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAAAIYAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T08:18:49.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\proga6\\Lab1_VD\\Lab1_VD\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab1_VD\\Form1.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\proga6\\Lab1_VD\\Lab1_VD\\Form1.cs",
+              "RelativeToolTip": "Lab1_VD\\Form1.cs",
+              "ViewState": "AQIAADwBAAAAAAAAAAAswFEBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T10:33:18.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\proga6\\Lab1_VD\\Lab1_VD\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab1_VD\\Form1.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\proga6\\Lab1_VD\\Lab1_VD\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Lab1_VD\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T10:32:43.614Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
